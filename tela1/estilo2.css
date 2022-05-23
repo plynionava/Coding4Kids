@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&display=swap');
+
+body {
+    background-color: #116cff;
+   
+
+}
+.codingKids {
+    width: 129.32px;
+    height: 37px;
+    top: 42px;
+    left: 100px;
+    position: absolute;
+    
+}
+
+
+.texto{
+    font-family: 'https://fonts.googleapis.com/css2?family=Inter:wght@100&display=swap';
+    float: left;
+    margin-top: 0px;
+    margin-left: 80px;
+    
+    }
+
+.imagem {
+   
+    float: right;
+    margin-right: 127px;
+    margin-top: 50px;
+   
+   
+   }
+
+.imagens{
+    position: ;
+}
+h1 {
+
+  width: 522px;
+  height: 161px;
+  left: 10px;
+  margin-bottom: 10px;
+  font-style: normal;
+  font-size: 50px;
+  color: #FFFFFF;
+  line-height: 160%;
+  font-family:'https://fonts.googleapis.com/css2?family=Inter:wght@100&display=swap', sans-serif;
+  font-weight: 700;
+  flex: none;
+  margin-top:0px;
+  flex-grow: 0;
+  
+  padding-top: 100px
+  
+}
+
+h4 {
+
+width: 403px;
+height: 64px;
+left: 100px;
+margin-left: 10px;
+top: 3810px;
+font-family:'https://fonts.googleapis.com/css2?family=Inter:wght@100&display=swap', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 180%;
+padding-top: 0px;
+color: #FFFFFF;
+font-weight: 100;
+margin-top: 10px;
+}
+
+
+ 
+#navBar {
+    width: 561px;
+    height: 39px;
+    top: 40px;
+    left:350px;
+    gap: 72px;
+    display: flex;
+    font-weight: 800;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    word-spacing: 85px;
+    position: absolute;
+    box-sizing: border-box;
+    font-size: 16px;
+    font-family:'https://fonts.googleapis.com/css2?family=Inter:wght@100&display=swap', sans-serif;
+}
+
+.botaoLogin {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0px;
+    position: static;
+    width: 104px;
+    height: 39px;
+    left: 1162px;
+    top: 40px;
+    border-radius: 10px;
+    border-color: #FFFFFF;
+    color: #116CFF;
+    background: #FFFFFF;
+    position: static;
+    width: 114px;
+    height: 39px;
+    
+    font-family:'https://fonts.googleapis.com/css2?family=Inter:wght@100&display=swap', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    margin-top: 41px;
+    margin-left: 1090px;
+    
+    
+    
+    
+}
+.BookClassBtn{
+    font-family:'https://fonts.googleapis.com/css2?family=Inter:wght@100&display=swap', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 10px;
+    color: #116CFF;
+    background: #FFFFFF;
+    position: absolute;
+    width: 200px;
+    height: 52px;
+    left: 95px;
+    top: 444px;
+    position: absolute;
+    line-height: 24px;
+    text-align: center;
+    border-color: #FFFFFF;
+
+}
+.LearnMoreBtn{
+    margin-top: 28px;
+    position:relative;
+    font-family:'https://fonts.googleapis.com/css2?family=Inter:wght@100&display=swap', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    border-radius: 10px;
+    background: #116CFF;
+    color: #FFFFFF;
+    position: absolute;
+    width: 200px;
+    height: 52px;
+    left: 310px;
+    top: 415px;
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-color:#FFFFFF
+    
+}
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+}
+   
